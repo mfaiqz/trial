@@ -1,3 +1,6 @@
 This is my new file
 This is my first commit
 This is my second commit
+
+##BRANCH A##
+##BRANCH A END##
