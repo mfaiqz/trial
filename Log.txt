@@ -10,3 +10,7 @@ CREATE BRANCH COMPLETED
 SIMPLE MERGING COMPLETED
 
 --------------------------------------
+
+
+##BRANCH B##
+##BRANCH B END##
