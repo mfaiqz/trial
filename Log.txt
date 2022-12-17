@@ -12,4 +12,7 @@ SIMPLE MERGING COMPLETED
 --------------------------------------
 
 ##BRANCH B##
+
+--- MODIFICATED BRANCH
+
 ##BRANCH B END##
