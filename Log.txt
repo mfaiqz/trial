@@ -5,3 +5,8 @@ This is my second commit
 ##BRANCH A##
 ---SIMPLE BRANCH
 ##BRANCH A END##
+
+CREATE BRANCH COMPLETED
+SIMPLE MERGING COMPLETED
+
+--------------------------------------
